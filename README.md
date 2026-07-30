@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/harshit7505/Leetcode/tree/master/3945-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/harshit7505/Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
