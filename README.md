@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harshit7505/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/harshit7505/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit7505/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshit7505/Leetcode/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 | [3945-digit-frequency-score](https://github.com/harshit7505/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshit7505/Leetcode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
