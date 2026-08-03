@@ -9,7 +9,7 @@ class Solution {
         for(int i=0;i<c0;i++){
             nums[i]=0;
         }
-        for(int i=c0;i<c0+c1;i++){
+        for(int i=c0;i<c0+c1  ;i++){
             nums[i]=1;
         }
         for(int i=c0+c1;i<nums.length;i++){
