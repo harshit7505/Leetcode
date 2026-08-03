@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshit7505/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/harshit7505/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
