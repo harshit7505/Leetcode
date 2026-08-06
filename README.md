@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshit7505/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/harshit7505/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshit7505/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3945-digit-frequency-score](https://github.com/harshit7505/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Linked List
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshit7505/Leetcode/tree/master/0035-search-insert-position) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harshit7505/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
