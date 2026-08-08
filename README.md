@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshit7505/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/harshit7505/Leetcode/tree/master/0189-rotate-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshit7505/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshit7505/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshit7505/Leetcode/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshit7505/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshit7505/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshit7505/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
