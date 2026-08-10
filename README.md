@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshit7505/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/harshit7505/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 | [2469-convert-the-temperature](https://github.com/harshit7505/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/harshit7505/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshit7505/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 ## Quicksort
 |  |
 | ------- |
@@ -106,4 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshit7505/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
