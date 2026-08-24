@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/harshit7505/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/harshit7505/Leetcode/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/harshit7505/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
