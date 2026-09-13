@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshit7505/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/harshit7505/Leetcode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/harshit7505/Leetcode/tree/master/0263-ugly-number) |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 | [2469-convert-the-temperature](https://github.com/harshit7505/Leetcode/tree/master/2469-convert-the-temperature) |
