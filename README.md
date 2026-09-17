@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshit7505/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/harshit7505/Leetcode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/harshit7505/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/harshit7505/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshit7505/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshit7505/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/harshit7505/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0877-stone-game](https://github.com/harshit7505/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/harshit7505/Leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshit7505/Leetcode/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harshit7505/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
